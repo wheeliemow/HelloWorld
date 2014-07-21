@@ -1,0 +1,3 @@
+/Users/programmer1/SampleApps/HelloWorld/HelloWorld/obj/iPhone/Debug/mtouch-cache/Link/HelloWorld.exe
+/Users/programmer1/SampleApps/HelloWorld/HelloWorld/obj/iPhone/Debug/mtouch-cache/Link/monotouch.dll
+/Users/programmer1/SampleApps/HelloWorld/HelloWorld/obj/iPhone/Debug/mtouch-cache/Link/mscorlib.dll
