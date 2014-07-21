@@ -99,6 +99,11 @@
   <ItemGroup>
     <Compile Include="Main.cs" />
     <Compile Include="AppDelegate.cs" />
+    <Compile Include="UI\HelloView.cs" />
+    <Compile Include="UI\HomeViewController.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <ItemGroup>
+    <Folder Include="UI\" />
+  </ItemGroup>
 </Project>

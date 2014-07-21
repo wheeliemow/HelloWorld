@@ -29,7 +29,9 @@ namespace HelloWorld
 			window = new UIWindow (UIScreen.MainScreen.Bounds);
 			
 			// If you have defined a root view controller, set it here:
-			// window.RootViewController = myViewController;
+		
+
+			window.RootViewController = new HomeViewController();
 			
 			// make the window visible
 			window.MakeKeyAndVisible ();
